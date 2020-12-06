@@ -290,7 +290,7 @@ document.addEventListener("keydown",function(e){
 		case 40:
 			personajeUno.agachar();
 		break;
-		
+
 		case 39:
 			personajeUno.derecha();
 		break;
