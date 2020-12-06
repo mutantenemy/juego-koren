@@ -116,8 +116,6 @@ function Elemento(x,y,tipo,ancho,alto){
 				vidas--;
 				audioPerdida.play()
 			}
-
-
 		}
 	}
 }
