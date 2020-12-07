@@ -13,7 +13,6 @@ var imgCarnivora;
 var audioPerdida=0;
 var audioPuntos=0;
 
-
 var puntos=0;
 var vidas=3;
 var teclaSalto=false;
@@ -32,7 +31,6 @@ function Personaje(x,y,ancho,alto){
 			this.y-=30;
 			this.x+=20;
 		}
-		
 	}
 	this.abajo=function(){
 		if(this.y<340){
