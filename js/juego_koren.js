@@ -1,3 +1,6 @@
+/* 	ESTO ES UNA
+	Prueba de un pull
+*/
 var canvas;
 var ctx;
 
